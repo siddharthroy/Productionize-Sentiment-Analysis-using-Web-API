@@ -1,0 +1,6 @@
+version: '3'
+services: 
+    sentihost: 
+        image: "siddharthroy/senti_analysis:bpemb-cached"
+        ports: 
+            - "8080:8080"
