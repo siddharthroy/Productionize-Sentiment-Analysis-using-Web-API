@@ -1,0 +1,11 @@
+bpemb==0.2.11
+#gensim==3.7.1
+#nbdime==1.0.3
+#pandas-profiling==1.4.1
+#umap-learn
+Flask
+flask-restful
+waitress
+#seaborn
+tensorflow
+keras
