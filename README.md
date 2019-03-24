@@ -4,3 +4,7 @@
 - Trained model is "myCNN.hdf5" gave validation accuracy of 87%, and is 100MB in size hence couldn't be uploaded to GitHub.<br>
 - Above model is converted to WSGI app using **Flask & Flask-restful**<br>
 - To scale up the flask WSGI app and make production ready, **Waitress** is used
+
+
+# Docker available at:
+https://hub.docker.com/r/siddharthroy/senti_analysis
